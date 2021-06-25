@@ -1,4 +1,3 @@
-- NetID: MSM180006
 - Name: Muhammad S Munir
 - Project: Project 2
 - Files:
